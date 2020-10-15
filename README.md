@@ -1,0 +1,2 @@
+# autoscrcpy
+Automatically triggers Scrcpy.
