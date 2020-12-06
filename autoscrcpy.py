@@ -10,13 +10,13 @@ def runner():
         devices = client.devices()
 
         if dev_num != len(devices):
-            print(devices)
             if len(devices) == 0:
                 pass
             else:
                 os.system('scrcpy')
 
         dev_num = len(devices)
-        time.sleep(3)
+        time.sleep(1)
 
+os.system('sccpy')
 runner()
