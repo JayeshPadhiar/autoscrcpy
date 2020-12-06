@@ -1,6 +1,8 @@
 # autoscrcpy
-Automatically triggers Scrcpy.
+Automatically triggers Scrcpy on smartphone connection.
 
 
 After downloading the repo:
-  pip install -r requirements.txt
+```
+pip install -r requirements.txt
+```
