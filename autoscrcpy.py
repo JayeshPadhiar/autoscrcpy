@@ -20,5 +20,5 @@ def runner():
         dev_num = len(devices)
         time.sleep(1)
 
-#os.system('scrcpy')
+os.system('scrcpy')
 runner()
